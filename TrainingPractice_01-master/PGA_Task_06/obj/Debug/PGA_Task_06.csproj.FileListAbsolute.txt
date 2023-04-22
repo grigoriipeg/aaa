@@ -1,0 +1,3 @@
+C:\Users\588-20\Downloads\TrainingPractice_01-master\PGA_Task_06\obj\Debug\PGA_Task_06.csproj.AssemblyReference.cache
+C:\Users\588-20\Downloads\TrainingPractice_01-master\PGA_Task_06\obj\Debug\PGA_Task_06.csproj.SuggestedBindingRedirects.cache
+C:\Users\588-20\Downloads\TrainingPractice_01-master\PGA_Task_06\obj\Debug\PGA_Task_06.csproj.CoreCompileInputs.cache

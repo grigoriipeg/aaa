@@ -1,0 +1,8 @@
+C:\Users\588-20\Downloads\TrainingPractice_01-master\PGA_Task_02\bin\Debug\PGA_Task_02.exe.config
+C:\Users\588-20\Downloads\TrainingPractice_01-master\PGA_Task_02\bin\Debug\PGA_Task_02.exe
+C:\Users\588-20\Downloads\TrainingPractice_01-master\PGA_Task_02\bin\Debug\PGA_Task_02.pdb
+C:\Users\588-20\Downloads\TrainingPractice_01-master\PGA_Task_02\obj\Debug\PGA_Task_02.csproj.AssemblyReference.cache
+C:\Users\588-20\Downloads\TrainingPractice_01-master\PGA_Task_02\obj\Debug\PGA_Task_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\588-20\Downloads\TrainingPractice_01-master\PGA_Task_02\obj\Debug\PGA_Task_02.csproj.CoreCompileInputs.cache
+C:\Users\588-20\Downloads\TrainingPractice_01-master\PGA_Task_02\obj\Debug\PGA_Task_02.exe
+C:\Users\588-20\Downloads\TrainingPractice_01-master\PGA_Task_02\obj\Debug\PGA_Task_02.pdb
